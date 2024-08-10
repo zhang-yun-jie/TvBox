@@ -49,18 +49,18 @@ FongMi影视的特点是：自动跳过失效的线路，选择最流畅的线�
     对于喜爱追剧和观影的用户而言，猫影视（CatVod）肯定不会陌生，这款老牌的神级应用提供了丰富多样的影视资源，让用户可以免费观看各种电影、电视剧、综艺节目等。然而随之而来的版权问题也让作者不得不停更。但在作者停更后，一批开源大佬基于猫影视（CatVod）进行了二次开发，前面介绍的影视TV、TVbox、宝盒、影视仓等产品均受益于该项目。
     如今，猫影视（CatVod）复活了，全新的猫影视 CatVodOpen 版本已经发布，涵盖Windows、MacOS、iOS、Android多个平台的客户端。目前功能还在不断完善，未来可期。
     猫影视复活版的开源代码仓库是：
-https://github.com/catvod/catvodopen
+    [https://github.com/catvod/catvodopen](https://github.com/catvod/catvodopen)
     这个版本的主要特点是：提供了PC端，IOS端，采用js爬虫
     IOS端还有一个孤版：
 就是苹果ibox，由饭佬提供，不再维护更新，具体原因在公告里有说明
-https://mp.weixin.qq.com/s/5ry0SZPSaSXpNRy5C6MOgw
+[https://mp.weixin.qq.com/s/5ry0SZPSaSXpNRy5C6MOgw](https://mp.weixin.qq.com/s/5ry0SZPSaSXpNRy5C6MOgw)
 下载地址：
 https://www.123pan.com/s/6ITiVv-Wq7U3.html  密码 1738
 js本地接口：
-https://wwt.lanzn.com/b0e0ghbla
+[https://wwt.lanzn.com/b0e0ghbla](https://wwt.lanzn.com/b0e0ghbla)
 密码:2qut
 js在线接口：
-github://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@github.com/lxhfans/catvod/main/asset/js/config_open.json
+[github://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@github.com/lxhfans/catvod/main/asset/js/config_open.json](github://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@github.com/lxhfans/catvod/main/asset/js/config_open.json)
 
 ## 九、相关项目
    * 蓝黑版: https://github.com/o0HalfLife0o/TVBoxOSC
