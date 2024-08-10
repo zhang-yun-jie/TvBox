@@ -60,7 +60,7 @@ js本地接口：
 https://wwt.lanzn.com/b0e0ghbla
 密码:2qut
 js在线接口：
-github://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@github.com/lxhfans/catvod/main/asset/js/config_open.json
+// github://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@github.com/lxhfans/catvod/main/asset/js/config_open.json
 
 ## 九、相关项目
    * 蓝黑版: https://github.com/o0HalfLife0o/TVBoxOSC
