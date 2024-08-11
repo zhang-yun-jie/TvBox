@@ -94,7 +94,7 @@ http://m.nxog.top/nxog/ou1.php
 * 13.小胡(公众号：小胡不胡): http://xiaohu.xzam.cn/xiaohu
 * 14.天天开心(日后魔改): https://js.users.51.la/21590635.js
 * 15.Github
-  1. candymuj(公众号：CandyMuj)，接口：https://tv.lan2wan.top/candymuj1.json
+  1. candymuj(公众号：CandyMuj)，接口：https://tv.lan2wan.top/candymuj1.json、https://tv.lan2wan.top/candymuj.json
   github仓库地址：https://github.com/CandyMuj/ResourceInterface
   2. 2hacc，接口：https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json
   github仓库地址：https://github.com/2hacc/TVBox 作者：SoEasy同学 https://www.bilibili.com/read/cv31017900/ 出处：bilibili
@@ -102,7 +102,7 @@ http://m.nxog.top/nxog/ou1.php
 * 17.王二小放牛娃：http://tvbox.王二小放牛娃.xyz
 * 18.摸鱼儿：http://我不是.摸鱼儿.top
 * 19.霜辉月明py：https://999740.xyz/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json
-* 20.小米小爆脾气：http://xhww.fun/小米/DEMO.json
+* 20.[http://www.wya6.cn/tv/yc.json](http://www.wya6.cn/tv/yc.json)
 * 21.神器：https://神器每日推送.tk/pz.json
 * 22.巧儿：http://pandown.pro/tvbox/tvbox.json
 * 23.Ray：https://100km.top/0
@@ -126,4 +126,16 @@ http://m.nxog.top/nxog/ou1.php
 * 41.Ray：https://dxawi.github.io/0/0.json
 * 42.甜蜜：https://kebedd69.github.io/TVbox-interface/py甜蜜.json
 * 43.52bsj：http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0
-
+* 44.[https://raw.liucn.cc/box/m.json]https://raw.liucn.cc/box/m.json
+* 45.[https://pastebin.com/raw/5NHaxyGR](https://pastebin.com/raw/5NHaxyGR)
+* 46.[https://jinenge.cn/1.json](https://jinenge.cn/1.json)
+* 47.[https://agit.ai/leevi/PiG/raw/branch/master/jsm.json](https://agit.ai/leevi/PiG/raw/branch/master/jsm.json)
+* 48.[https://download.kstore.space/download/2883/nzk/nzk0722.json](https://download.kstore.space/download/2883/nzk/nzk0722.json)
+* 49.[https://atomgit.com/ygbh888/YGBH777/raw/main/ygbox.json](https://atomgit.com/ygbh888/YGBH777/raw/main/ygbox.json)
+* 50.[http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2](http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2)
+* 51.[http://8.210.232.168/xc.json](http://8.210.232.168/xc.json)
+* 52.[http://www.liuyunw.com:88/img](http://www.liuyunw.com:88/img)
+* 53.[https://notabug.org/qizhen15800/My9394/raw/master/%e4%b8%8d%e8%89%af%e5%b8%85.json](https://notabug.org/qizhen15800/My9394/raw/master/%e4%b8%8d%e8%89%af%e5%b8%85.json)
+* 54.[https://www.macms.pro/box/3.json](https://www.macms.pro/box/3.json)
+* 55.[https://agit.ai/kvymin/TVBox/raw/branch/master/config.json](https://agit.ai/kvymin/TVBox/raw/branch/master/config.json)
+* 56.[https://szyyds.cn/tv/x.json](https://szyyds.cn/tv/x.json)
