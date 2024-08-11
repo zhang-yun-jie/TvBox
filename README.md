@@ -77,6 +77,7 @@ http://m.nxog.top/nxog/ou1.php
     了解TVBox的朋友都知道，盒子最重要的是接口源，这些接口源平均在一个月内就会有90%失效，我们之所以能够一直稳定白嫖，是因为这个接口源背后有各路大佬们的无私奉献，保持更新迭代。
     这些大佬们有：
 
+* 0.其它源项目: [https://github.com/wwb521/live](https://github.com/wwb521/live)、[https://yinghe.app/tvbox-zhiboyuan/](https://yinghe.app/tvbox-zhiboyuan/)、[https://github.com/ngo5/IPTV](https://github.com/ngo5/IPTV)
 * 1.饭太硬(公众号：神秘的哥哥们，玩偶哥哥网站): http://饭太硬.top/tv
 * 2.小米: http://xhww.fun:63/小米/DEMO.json
 * 3.肥猫(公众号：肥猫宝贝): http://xn--yety82d.love/、http://肥猫.live、http://我不是.肥猫.love:63
