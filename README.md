@@ -67,7 +67,7 @@ js在线接口：
    * TVBox Android TV版(官网) : [http://tvbox.clbug.com](http://tvbox.clbug.com)、[本地下载](http://down.clbug.com/?dir=TVBox)、[使用教程](https://bcoder.clbug.com/28897.html)、[tvbox源](http://site.bcoderss.com/);
    * [硬核指南-几个TvBox常用最新版](https://yingheapp.com/site/tvbox/);
    * [FongMi版本](https://github.com/FongMi/TV)、[q215613905版本](https://github.com/q215613905/TVBoxOS)、[TVBox_takagen99](https://github.com/takagen99/Box)、[猫影视](https://github.com/catvod/CatVodOpen)、[影视仓 / 1234](https://wwjn.lanzout.com/b03jpibob#1234);
-   * 其它软件: [my-tv](https://github.com/lizongying/my-tv)、[ZyPlayer](https://github.com/Hiram-Wong/ZyPlayer)、[jellyfin](https://github.com/jellyfin/jellyfin-media-player)、[VidHub](https://zh.okaapps.com/product/1659622164?ref=alist);
+   * 其它软件: [my-tv](https://github.com/lizongying/my-tv)、[ZyPlayer](https://github.com/Hiram-Wong/ZyPlayer)、[jellyfin](https://github.com/jellyfin/jellyfin-media-player)、[VidHub](https://zh.okaapps.com/product/1659622164?ref=alist)、[Kodi](https://kodi.tv/);
    * 直播源: [gao](https://github.com/gaotianliuyun/gao)、[蓝鲸直播源](https://github.com/Cyril0563/lanjing_live)、[TVBox-2hacc](https://github.com/2hacc/TVBox)、[files](https://github.com/cyao2q/files)、[TVBox-zhbjzhql1](https://github.com/zhbjzhql1/TVBox)、[悟空的日常](https://wwl.lanzouq.com/mytvbox);
    * 视频网站: [https://ddys.pro/](https://ddys.pro/)、[https://www.zxzja.com](https://www.zxzja.com)、[https://czzy.top/gcj](https://czzy.top/gcj)、[https://www.80yy3.com](https://www.80yy3.com).
 
